@@ -146,7 +146,7 @@ FROM HTML AND CSS
 </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
 
 ![alt text](image.png)
